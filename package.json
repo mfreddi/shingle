@@ -1,0 +1,18 @@
+{
+  "name": "nearduplicate",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Frolov Nikolay",
+  "license": "MIT",
+  "description": "find nearby duplicate",
+  "dependencies": {
+    "crc": "^3.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mfreddi/shingle.git"
+  }
+}
